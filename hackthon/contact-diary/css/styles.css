@@ -1,0 +1,28 @@
+nav {
+    background-color: green;
+    text-align: left;
+    width: 100em;
+    height: 4em;
+    font-weight: 350;
+    font-size: large;
+    border-style: solid;
+
+}
+
+table {
+   border-collapse: collapse;
+   width:50%;
+   table-layout: auto;
+    
+}
+th,td {
+    padding:8px;
+    text-align: centre;
+    border-bottom: 1px solid #DDD;
+}
+tr:hover{
+    background-color: #D6EEEE;
+}
+    
+
+
